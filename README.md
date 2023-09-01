@@ -1,6 +1,7 @@
 # lailearning
 
-A new Flutter project.
+A new Flutter project. The goal is to create a mobile app for Android (and later IOS) to teach young burmese
+about their native language as many have forgotten their root.
 
 ## Getting Started
 
